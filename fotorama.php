@@ -1,4 +1,4 @@
-.<?php
+<?php
 /*
 Plugin Name: Fotorama
 Plugin URI: http://fotoramajs.com
