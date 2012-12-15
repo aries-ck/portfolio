@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fotorama\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-14 00:48+0300\n"
+"PO-Revision-Date: 2012-02-14 00:49+0300\n"
+"Last-Translator: Anna Shishlyakova <anna.shishlyakova@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fotorama.php:241
+#: fotorama.php:314
+msgid "Fotorama Settings"
+msgstr "Настройка Фоторамы"
+
+#: fotorama.php:242
+msgid "Fotorama"
+msgstr "Фоторама"
+
+#: fotorama.php:307
+msgid "Settings updated"
+msgstr "Изменения сохранены"
+
+#: fotorama.php:320
+msgid "Behavior"
+msgstr "Поведение"
+
+#: fotorama.php:325
+msgid "Drag & swipe images"
+msgstr "Таскать и смахивать изображения"
+
+#: fotorama.php:331
+msgid "Click only"
+msgstr "Только кликать"
+
+#: fotorama.php:337
+msgid "Navigation"
+msgstr "Навигация"
+
+#: fotorama.php:341
+msgid "Image thumbnails"
+msgstr "Лента превьюшек"
+
+#: fotorama.php:347
+msgid "iPhone-style dots"
+msgstr "Точки в стиле айфона"
+
+#: fotorama.php:353
+msgid "Nothing"
+msgstr "Ничего"
+
+#: fotorama.php:363
+msgid "Draw arrows"
+msgstr "Показать стрелки"
+
+#: fotorama.php:369
+msgid "Captions"
+msgstr "Подписи"
+
+#: fotorama.php:373
+msgid "Under fotorama"
+msgstr "Под фоторамой"
+
+#: fotorama.php:379
+msgid "On picture"
+msgstr "Над изображениями"
+
+#: fotorama.php:385
+msgid "None"
+msgstr "Без подписей"
+
+#: fotorama.php:391
+msgid "Autoplay"
+msgstr "Слайд-шоу"
+
+#: fotorama.php:395
+msgid "Play all fotoramas as slideshows on page load"
+msgstr "Воспроизвести все фоторамы как слайд-шоу при загрузке страницы"
+
+#: fotorama.php:400
+msgid "Interval"
+msgstr "Интервал"
+
+#: fotorama.php:400
+msgid "sec"
+msgstr "секунд"
+
+#: fotorama.php:403
+msgid "Stops at any user action with fotorama."
+msgstr "Остановится после взаимодействия пользователя с фоторамой."
+
+#: fotorama.php:408
+msgid "Size"
+msgstr "Размер"
+
+#: fotorama.php:411
+msgid "Width"
+msgstr "Ширина"
+
+#: fotorama.php:416
+msgid "Height"
+msgstr "Высота"
+
+#: fotorama.php:421
+msgid "By default, fotorama&rsquo;s dimensions are the dimensions of the first image."
+msgstr "По умолчанию, размер вашей фоторамы &mdash; это размер первого изображения."
+
+#: fotorama.php:428
+msgid "Image size"
+msgstr "Размер изображений"
+
+#: fotorama.php:430
+msgid "Medium"
+msgstr "Средний"
+
+#: fotorama.php:431
+msgid "Large"
+msgstr "Большой"
+
+#: fotorama.php:436
+msgid "Size of the image you want Fotorama to use. These sizes are set in <a href=\"options-media.php\">Media Settings</a>."
+msgstr "Изображения какого размера будут использоваться Фоторамой. Эти размеры определяются в <a href=\"options-media.php\">настройке медиафайлов</a>."
+
+#: fotorama.php:445
+msgid "Allow fullscreen"
+msgstr "Разрешить полноэкранный режим"
+
+#: fotorama.php:450
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#~ msgid "Simple captions under fotorama"
+#~ msgstr "Простые подписи под фоторамой"
